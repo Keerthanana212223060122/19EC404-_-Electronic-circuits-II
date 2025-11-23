@@ -7,23 +7,27 @@
 <img width="723" height="995" alt="image" src="https://github.com/user-attachments/assets/956df1e8-cf1a-44ca-b762-bee6f746dd05" />
 <img width="723" height="995" alt="image" src="https://github.com/user-attachments/assets/591791ac-b321-4c7b-8223-582f9353519c" />
 
-# Circuit Diagram :
+## Circuit Diagram :
 
-# Without Feedback :
+![WhatsApp Image 2025-11-23 at 11 19 13_ecf6586a](https://github.com/user-attachments/assets/6e5e2544-3cd9-4400-8e24-c8ff06297710)
+
+## Without Feedback :
 
 <img width="581" height="362" alt="image" src="https://github.com/user-attachments/assets/4b0a599c-6d35-4616-a306-2360b5f4f172" />
 
-# With Feedback :
+## With Feedback :
 
 <img width="689" height="382" alt="image" src="https://github.com/user-attachments/assets/0ce0d0fa-b220-4727-bdc4-d6a9b06bd56c" />
 
-# Tabulation :
+## Tabulation :
 
+![WhatsApp Image 2025-11-23 at 11 19 13_a23473e9](https://github.com/user-attachments/assets/145b939c-c493-4db8-8c64-9f09cf9894be)
 
-# Graph : 
+## Graph : 
 
+![WhatsApp Image 2025-11-23 at 11 20 41_58c8bd59](https://github.com/user-attachments/assets/0af902c2-f1af-4140-830c-128bca9123e7)
 
-### **Result** :
+## **Result** :
 
 Thus the voltage shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
@@ -40,6 +44,5 @@ Thus the voltage shunt feedback amplifier is designed and constructed  and the f
 The frequency response of the voltage-shunt feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
 
 ---
-
 
 **End of Experiment**
