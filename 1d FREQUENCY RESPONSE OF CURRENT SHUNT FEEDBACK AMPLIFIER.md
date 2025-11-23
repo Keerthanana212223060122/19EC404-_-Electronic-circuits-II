@@ -26,7 +26,7 @@
 
 ![WhatsApp Image 2025-11-23 at 11 50 56_2cb21c4a](https://github.com/user-attachments/assets/1b9b1674-721b-44d3-acb5-c7c9ef8e93ae)
 
-### **Result** :
+## **Result** :
 
 Thus the current shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
