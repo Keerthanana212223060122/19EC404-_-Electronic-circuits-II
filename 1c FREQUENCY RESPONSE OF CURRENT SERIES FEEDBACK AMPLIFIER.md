@@ -6,23 +6,23 @@
 <img width="722" height="1037" alt="image" src="https://github.com/user-attachments/assets/e7eba3fc-cb9b-48d4-aaa4-ba1b626a5bac" />
 <img width="724" height="1066" alt="image" src="https://github.com/user-attachments/assets/b3992104-4c58-4976-b6bf-35fc8e647d05" />
 
-# Circuit Diagram :
+## Circuit Diagram :
 
 ![WhatsApp Image 2025-11-23 at 11 37 48_756350cd](https://github.com/user-attachments/assets/2eadfa08-8661-40a6-8d7d-6c585ec06c46)
 
-# Without Feedback :
+## Without Feedback :
 
 <img width="540" height="428" alt="image" src="https://github.com/user-attachments/assets/aaa574ca-68cc-4744-b0af-cdc45619c37c" />
 
-# With Feedback :
+## With Feedback :
 
 <img width="533" height="283" alt="image" src="https://github.com/user-attachments/assets/d423c0cc-853d-4fb0-8316-c17b10cf49c8" />
 
-# Tabulation :
+## Tabulation :
 
 ![WhatsApp Image 2025-11-23 at 11 37 49_445c1563](https://github.com/user-attachments/assets/a904132a-396c-4dee-b584-bda0c32e4cfe)
 
-# Graph : 
+## Graph : 
 
 ![WhatsApp Image 2025-11-23 at 11 37 49_ddca9e45](https://github.com/user-attachments/assets/6c504b79-29f7-4fb3-a16a-94a39f28f883)
 
