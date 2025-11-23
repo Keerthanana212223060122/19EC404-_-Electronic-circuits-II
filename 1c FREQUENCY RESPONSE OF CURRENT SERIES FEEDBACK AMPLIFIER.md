@@ -19,24 +19,20 @@
 
 # Graph
 
-
-# Sample images 
-
-
-### **Result**
+## **Result** :
 
 Thus the current series  feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | f1 = 610 Hz | f1' = 360 Hz |
+| 2 | Upper cut-off frequency | f2 = 470 KHz | f2' = 270 Hz |
+| 3 | Bandwidth | \( BW = fh - fl = 489.39 KHz ) | \( BW = f'h - f'l = 269.64 KHz ) |
+| 4 | Mid-band Gain | \( A{v(mid)} = 12.88 ) | \( A'{v(mid)} = 8.40 ) |
+| 5 | Gain at half power point | G0 = 6.10 | G0' = 5.93 |
 
 ---
 
-**Conclusion:**  
+## **Conclusion :**  
 The frequency response of the current series feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
 
 ---
