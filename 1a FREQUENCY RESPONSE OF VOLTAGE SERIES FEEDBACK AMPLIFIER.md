@@ -5,7 +5,10 @@
 <img width="778" height="1074" alt="image" src="https://github.com/user-attachments/assets/264fbf03-f65b-47f2-9ea4-879fb75144ee" />
 <img width="764" height="1017" alt="image" src="https://github.com/user-attachments/assets/ed43c68a-3de3-4e1a-bf01-5b5fb8c70186" />
 
-## Circuit Diagram 
+## Circuit Diagram :
+
+![WhatsApp Image 2025-11-23 at 10 36 26_2714aea2](https://github.com/user-attachments/assets/cb75d994-e31a-40e4-ac36-ea4f75ebfd09)
+
 ## Without Feedback:
 <img width="637" height="365" alt="image" src="https://github.com/user-attachments/assets/191cd72d-ffbf-455c-8d74-09b13d791c7e" />
 
@@ -14,12 +17,11 @@
 
 ## Tabulation
 
+![WhatsApp Image 2025-11-23 at 10 46 37_b934b717](https://github.com/user-attachments/assets/1b65b104-6f01-42c3-b4e8-ce501c8c796c)
 
 ## Graph
 
-
-## Sample images 
-
+![WhatsApp Image 2025-11-23 at 10 42 44_96bc5751](https://github.com/user-attachments/assets/bc9e84b1-d5aa-407e-a705-a23c4521d75a)
 
 ## **Result**
 Thus, the **voltage series feedback amplifier** is designed and constructed.  
