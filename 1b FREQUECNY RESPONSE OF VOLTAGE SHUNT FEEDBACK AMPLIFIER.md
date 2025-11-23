@@ -1,6 +1,6 @@
 ## Exp. No. 1(b) 
 
-## FREQUECNY RESPONSE OF VOLTAGE SHUNT FEEDBACK AMPLIFIER
+## FREQUENCY RESPONSE OF VOLTAGE SHUNT FEEDBACK AMPLIFIER
 
 <img width="822" height="889" alt="image" src="https://github.com/user-attachments/assets/a1f70018-04e2-4b1d-8a91-695ddb6af202" />
 <img width="746" height="1062" alt="image" src="https://github.com/user-attachments/assets/c0183060-3ae7-416a-9fd7-51e518dc93f6" />
